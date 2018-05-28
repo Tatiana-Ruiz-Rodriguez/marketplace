@@ -5,37 +5,37 @@
 			"nombre": "iPhone 8",
 			"precio": 35000000,
 			"cantidad": 100,
-			"imagen": "iphone8.jpg"
+			"imagen": "https://store.storeimages.cdn-apple.com/4666/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone8/silver/iphone8-silver-select-2018?wid=470&hei=556&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1522347747149"
 		},
 		{
 			"nombre": "Disco Duro Externo 2TB",
 			"precio": 300000,
 			"cantidad": 80,
-			"imagen": "disco_duro.jpg"
+			"imagen": "https://www.hostdime.com.co/hdimages/png/disco-duro.png"
 		},
 		{
 			"nombre": "Chocorramo",
 			"precio": 1000,
 			"cantidad": 30,
-			"imagen": "chocorramo.jpg"
+			"imagen": "https://cdn.shopify.com/s/files/1/0151/1051/products/Ramo_Chocoramo_Cake_70g_x700.png?v=1523245082"
 		},
 		{
 			"nombre": "Camiseta Selección Colombia",
 			"precio": 250000,
 			"cantidad": 10,
-			"imagen": "camiseta.jpg"
+			"imagen": "https://www.adidas.co/dis/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dwe7563851/zoom/CW1526_01_laydown.jpg"
 		},
 		{
 			"nombre": "Mackbook Pro Retina 13' ",
 			"precio": 9000000,
 			"cantidad": 5,
-			"imagen": "macbook.jpg"
+			"imagen": "https://store.storeimages.cdn-apple.com/4980/as-images.apple.com/is/image/AppleInc/aos/published/images/m/ac/macbook/select/macbook-select-space-gray-201706?wid=452&hei=420&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1505775431709"
 		},
 		{
 			"nombre": "Balón Mundial Rusia 2018",
 			"precio": 430000 ,
 			"cantidad": 2,
-			"imagen": "balor.jpg"
+			"imagen": "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201711/10/00108418312198____1__640x640.jpg"
 		}
 	]
 }
